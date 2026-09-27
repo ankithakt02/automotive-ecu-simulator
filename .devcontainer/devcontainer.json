@@ -1,0 +1,4 @@
+{
+    "name": "Automotive ECU Firmware",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu"
+}
